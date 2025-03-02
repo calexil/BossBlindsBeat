@@ -99,7 +99,7 @@ function G.UIDEF.run_info()
           {
             label = localize ('b_bosses'),
             tab_definition_function = G.UIDEF.boss_blinds_beat,
-          }
+          },
           G.GAME.stake > 1 and {
             label = localize('b_stake'),
             tab_definition_function = G.UIDEF.current_stake,

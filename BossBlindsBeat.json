@@ -1,0 +1,16 @@
+{
+	"id": "Boss Blinds Beat",
+	"name": "Boss Blinds Beat",
+	"display_name": "BBB",
+	"author": ["Calexil"],
+	"description": "Mod by Calexil! Follow on twitch.tv/calexil to support! <3",
+	"prefix": "boss",
+	"main_file": "BossBlindsBeat.lua",
+	"priority": 0,
+	"badge_colour": "7851A9",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.0.1",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1324a)"
+	]
+}

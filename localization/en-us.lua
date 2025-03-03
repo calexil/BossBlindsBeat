@@ -10,7 +10,7 @@ return {
                     " ",
                     " ",
                     " ",
-                    "Programming and implementation by {C:calexil}Calexil{}Lia{}.",
+                    "Programming and implementation by {C:calexil}Calexil{}.",
                 }
             }
         }

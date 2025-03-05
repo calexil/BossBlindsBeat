@@ -25,6 +25,14 @@ sources = [ "Init.lua" ]
 
 [[patches]]
 [patches.copy]
+target = "main.lua"
+position = "append"
+sources = [
+  "BossBlindsBeat.lua"
+]
+
+[[patches]]
+[patches.copy]
 target = "functions/UI_definitions.lua"
 position = "append"
 sources = [ "BossBlindsBeat.lua" ]

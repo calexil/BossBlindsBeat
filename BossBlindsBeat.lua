@@ -26,8 +26,6 @@ function CAL.BOSS.bosses_tab()
   }
 end
 
-
-
 --
 -- CUSTOM TOOLTIP:
 --

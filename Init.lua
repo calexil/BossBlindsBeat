@@ -7,6 +7,7 @@ if not C then CAL = {} end
 CAL.BOSS = {
    -- TODO:
    history = {},
+   bosses = {},
    view = {
       abs_round = 1,
       text = {" ", " ", " ", " "},

@@ -26,23 +26,5 @@ function CAL.BOSS.bosses_tab()
   }
 end
 
-<<<<<<< HEAD
-=======
---
--- CUSTOM TOOLTIP:
---
-
-CAL.BOSS._create_tooltip = create_popup_UIBox_tooltip
-function create_popup_UIBox_tooltip(tooltip)
-   if tooltip.dv == true then
-      return {n=G.UIT.ROOT, config = {align = "cm", padding = 0.05, r = 0.1, float = true, shadow = true, colour = lighten(G.C.GREY, 0.6)}, nodes=
-                 {{n=G.UIT.C, config={align = "cm", padding = 0.05, r = 0.1, emboss = 0.05, colour = G.C.BLACK}, nodes={tooltip.filler.func(tooltip.filler.args)}}
-                 }}
-   end
-   return CAL.BOSS._create_tooltip(tooltip)
-end
-
-
->>>>>>> 6bbb3238cb0be8209e2a83af9320e1e694cff577
 ----------------------------------------------
 ------------MOD CODE END----------------------

@@ -5,33 +5,20 @@
 if not C then CAL = {} end
 
 CAL.BOSS = {
-   -- TODO:
+   -- Globals:
    history = {},
    bosses = {},
-   view = {
-      abs_round = 1,
-      text = {" ", " ", " ", " "},
-   },
    latest = {
-     rel_round = 0,
-     abs_round = 0,
-     ante = 0,
+     boss = 0,
    },
    RECORD_TYPE = {
-      SKIP = 0,
-      HAND = 1,
-      DISCARD = 2,
-      SHOP = 3,
+      BOSS = 0,
    },
    STORAGE_TYPE = {
-      AUTO = "auto",
-      MANUAL = "save",
-      WIN = "win",
-      LOSS = "loss",
+      BOSS = "boss",
    },
    PATHS = {
-      STORAGE = "DVHistory",
-      AUTOSAVES = "_autosaves",
+      STORAGE = "CALHistory",
    },
 }
 

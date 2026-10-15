@@ -2,7 +2,7 @@
 **A simple Steammodded mod that displays which Boss Blinds you have completed in the 'Run Info Menu'**
 
 
-#!!!THIS IS A WIP AND IS NON FUNCTIONAL, DO NOT USE!!!!!#
+# !!!THIS IS A WIP AND IS NON FUNCTIONAL, DO NOT USE!!!!!
 
 ***Requires [latest version of Steamodded](https://github.com/Steamodded/smods/wiki)***
 ### Bugs? Feedback?<br> Report here: [Github Issues](https://github.com/calexil/BossBlindsBeat/issues)
